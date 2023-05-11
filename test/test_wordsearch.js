@@ -1,7 +1,7 @@
 const chai = require('chai');
 const assert = chai.assert;
 
-const wordSearch = require('../wordSearch.js');
+const wordSearch = require('../wordsearch.js');
 
 describe("#wordSearch()", function() {
   it("Word not found test", function() {
